@@ -7,13 +7,6 @@
     "start:ng": "nx serve --project ng",
     "start:docs": "npm start --prefix=docs",
     "test": "npm run affected:test",
-    "build": "nx build akita && npm run build --prefix packages/akita-schematics",
-    "test:all": "nx run-many --target=test --exclude=ng-playground --all",
-    "build:all": "nx run-many --target=build --all --exclude=ng-playground",
-    "affected": "nx affected",
-    "format": "nx format:write",
-    "update": "nx migrate latest",
-    "migration": "nx migrate --run-migrations",
     "postinstall": "ngcc --properties es2015 browser module main",
     "cz": "cz",
     "prepare": "husky install"
@@ -33,7 +26,6 @@
     "faker": "^5.5.3",
     "helpful-decorators": "^2.1.0",
     "rxjs": "~7.4.0",
-    "schematics-utilities": "^2.0.3",
     "tslib": "^2.0.0",
     "zone.js": "~0.11.4"
   },
