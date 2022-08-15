@@ -20,7 +20,8 @@
     "baseUrl": ".",
     "paths": {
       "@WC/akita": ["packages/akita/src/index.ts"],
-    }
+    },
+    "files": ["/index.js"]
   },
   "exclude": ["node_modules", "tmp"]
 }
