@@ -1,5 +1,5 @@
 {
-  "name": "wc_akita",
+  "name": "@WC/akita",
   "version": "0.0.1",
   "description": "A Reactive State Management Tailored-Made for JS Applications - WebComponents Version",
   "keywords": [

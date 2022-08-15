@@ -3,12 +3,6 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "c": "git-cz",
-    "start:ng": "nx serve --project ng",
-    "start:docs": "npm start --prefix=docs",
-    "test": "npm run affected:test",
-    "cz": "cz",
-    "prepare": "husky install"
   },
   "private": true,
   "dependencies": {
