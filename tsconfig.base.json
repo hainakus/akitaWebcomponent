@@ -22,7 +22,7 @@
       "@WC/akita": ["packages/akita/src/index.ts"],
     },
     "files": [
-      "/index"
+      "/index.ts"
     ]
   },
   "exclude": ["node_modules", "tmp"]
