@@ -19,7 +19,7 @@
     "noImplicitAny": false,
     "baseUrl": ".",
     "paths": {
-      "@WC/akita": ["packages/akita/src/index.ts"],
+      "wc_akita": ["packages/akita/src/index.ts"],
     },
     "files": [
       "/index.ts"
