@@ -1,1 +1,1 @@
-import * as akita from './packages/akita/src/index'
+export * as akita from './packages/akita/src/index'
