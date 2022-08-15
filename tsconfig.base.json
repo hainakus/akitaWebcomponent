@@ -25,5 +25,7 @@
       "/index.ts"
     ]
   },
+  "declaration": true,
+  "declarationDir": "./types",
   "exclude": ["node_modules", "tmp"]
 }
