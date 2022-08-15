@@ -21,7 +21,9 @@
     "paths": {
       "@WC/akita": ["packages/akita/src/index.ts"],
     },
-    "files": ["/index.js"]
+    "files": [
+      "/index"
+    ]
   },
   "exclude": ["node_modules", "tmp"]
 }
