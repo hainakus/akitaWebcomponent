@@ -13,7 +13,7 @@
     "rxjs": "~7.4.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.11.4",
-    "@commitlint/cli": "^15.0.0",
+    "@commitlint/cli": "^16.0.0",
     "@commitlint/config-angular": "^15.0.0",
     "@commitlint/config-conventional": "^15.0.0",
     "@jscutlery/semver": "^2.13.3",
